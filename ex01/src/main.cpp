@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jverdu-r <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: jverdu-r <jverdu-r@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/22 18:13:04 by jverdu-r          #+#    #+#             */
-/*   Updated: 2024/01/22 18:13:05 by jverdu-r         ###   ########.fr       */
+/*   Updated: 2024/05/21 18:24:15 by jverdu-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,7 +43,7 @@ void subjectTest(){
 		const Animal* i = new Cat();
 
 		std::cout << i->getType() << " " << std::endl;
-		i->makeSound(); //will output the cat sound!
+		i->makeSound();
 		std::cout << j->getType() << " " << std::endl;
 		j->makeSound();
 		delete i;

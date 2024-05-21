@@ -3,17 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   Brain.hpp                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jverdu-r <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: jverdu-r <jverdu-r@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/22 18:11:53 by jverdu-r          #+#    #+#             */
-/*   Updated: 2024/01/22 18:11:55 by jverdu-r         ###   ########.fr       */
+/*   Updated: 2024/05/21 18:25:50 by jverdu-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef BRAIN_HPP
 #define BRAIN_HPP
 #include <iostream>
-#include <random>
 
 class Brain
 {
